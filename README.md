@@ -1,5 +1,3 @@
-# Helium-MouseEffect
-
 # HELIUM MOUSEEFFECT
 
 Projet interactif réalisé dans le cadre de ma formation Développeur Web.
